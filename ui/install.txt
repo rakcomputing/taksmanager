@@ -1,0 +1,13 @@
+1- create project 
+     npx create-react-app taksapp
+2- git 
+    create a new repository on the command line
+                echo "# takspp" >> README.md
+                git init
+                git add README.md
+                git commit -m "first commit"
+                git branch -M main
+                git remote add origin https://github.com/rakcomputing/takspp.git
+                git push -u origin main
+3- install route in ui 
+     npm i react-router-dom

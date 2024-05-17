@@ -1,0 +1,8 @@
+1 - install 
+    npm init - y 
+2-  npm install express --save
+3-  npm install cors
+4- install mongodb client
+    npm install mongodb@4.1.0 --save 
+5- install reading data 
+    npm install multer --save
